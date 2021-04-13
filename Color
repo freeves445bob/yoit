@@ -1,7 +1,8 @@
-<!Doctype html>
 <html>
 <head>
-<style>
+<style>#ff0000
+rgb(255, 0, 0)
+hsl(0, 100%, 50%)
 </style> 
 </head>
 </html>
